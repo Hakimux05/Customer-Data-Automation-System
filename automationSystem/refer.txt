@@ -1,0 +1,12 @@
+
+CREATE DATABASE automasi_data;
+USE automasi_data;
+
+CREATE TABLE pelanggan (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nama VARCHAR(100) NOT NULL,
+    emel VARCHAR(100),
+    jumlah_belanja DECIMAL(10,2) NOT NULL,
+    kategori VARCHAR(20) NOT NULL,
+    tarikh_daftar DATE NOT NULL
+);

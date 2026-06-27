@@ -1,0 +1,12 @@
+
+-------------------------------------
+        LAPORAN RINGKASAN PELANGGAN
+Dijana pada: 27-06-2026 15:05:16
+Sumber Data: MySQL Database
+-------------------------------------
+RINGKASAN UTAMA:
+- Jumlah Pelanggan: 4 orang
+- Jumlah Nilai Belanja: RM 1366.00
+- Pelanggan Aktif: 3 orang
+- Pelanggan Biasa: 1 orang
+- Pelanggan VIP (belanja ≥ RM500): 2 orang
